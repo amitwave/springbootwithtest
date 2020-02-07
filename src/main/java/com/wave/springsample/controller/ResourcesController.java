@@ -1,6 +1,6 @@
-package com.hackerrank.github.controller;
+package com.wave.springsample.controller;
 
-import com.hackerrank.github.cache.RepoCache;
+import com.wave.springsample.cache.RepoCache;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

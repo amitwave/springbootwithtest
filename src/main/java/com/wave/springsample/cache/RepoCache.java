@@ -1,7 +1,7 @@
-package com.hackerrank.github.cache;
+package com.wave.springsample.cache;
 
 
-import com.hackerrank.github.model.Event;
+import com.wave.springsample.model.Event;
 import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;

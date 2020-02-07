@@ -1,8 +1,8 @@
-package com.hackerrank.github;
+package com.wave.springsample;
 
-import com.hackerrank.github.requests.EventsControllerTest;
-import com.hackerrank.github.requests.NoResourcesEventsControllerTest;
-import com.hackerrank.github.requests.ResourcesControllerTest;
+import com.wave.springsample.requests.EventsControllerTest;
+import com.wave.springsample.requests.NoResourcesEventsControllerTest;
+import com.wave.springsample.requests.ResourcesControllerTest;
 import com.hackerrank.test.utility.TestWatchman;
 import org.junit.AfterClass;
 import org.junit.runner.RunWith;

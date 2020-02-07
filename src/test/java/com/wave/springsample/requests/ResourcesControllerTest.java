@@ -1,4 +1,4 @@
-package com.hackerrank.github.requests;
+package com.wave.springsample.requests;
 
 import com.hackerrank.test.utility.TestWatchman;
 import org.junit.*;

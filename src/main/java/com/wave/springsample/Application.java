@@ -1,4 +1,4 @@
-package com.hackerrank.github;
+package com.wave.springsample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

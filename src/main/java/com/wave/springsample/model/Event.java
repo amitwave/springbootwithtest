@@ -1,8 +1,8 @@
-package com.hackerrank.github.model;
+package com.wave.springsample.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
-import com.hackerrank.github.date.JsonDateDeSerializer;
+import com.wave.springsample.date.JsonDateDeSerializer;
 
 import java.sql.Timestamp;
 

@@ -1,4 +1,4 @@
-package com.hackerrank.github.model;
+package com.wave.springsample.model;
 
 public class Repo {
     private Long id;

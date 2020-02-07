@@ -1,4 +1,4 @@
-package com.hackerrank.github.model;
+package com.wave.springsample.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

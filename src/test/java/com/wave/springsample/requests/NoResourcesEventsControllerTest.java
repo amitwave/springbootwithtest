@@ -1,4 +1,4 @@
-package com.hackerrank.github.requests;
+package com.wave.springsample.requests;
 
 import com.hackerrank.test.utility.Order;
 import com.hackerrank.test.utility.OrderedTestRunner;

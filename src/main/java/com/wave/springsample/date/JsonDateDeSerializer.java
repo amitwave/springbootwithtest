@@ -1,4 +1,4 @@
-package com.hackerrank.github.date;
+package com.wave.springsample.date;
 
 
 import com.fasterxml.jackson.core.JsonParser;
